@@ -2,6 +2,8 @@
 
 Kör `docker compose up`
 
+Surfa till [http://localhost:7474/](http://localhost:7474/)
+
 Logga in med neo4j och Password123
 
 Strular det testa följande, men då kanske inte gui:t kan ladda ner från internet.  
